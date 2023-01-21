@@ -9,7 +9,7 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 
 ## Clone the project
-`git clone https://github.com/dappuniversity/election`
+`git clone https://github.com/Jcheng777/ElectiondApp.git`
 
 ## Install dependencies
 ```
